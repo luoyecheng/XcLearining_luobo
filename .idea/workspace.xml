@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="332f5d14-a3b2-42f3-b8a1-9facfe27e6e4" name="Default Changelist" comment="" />
+    <list default="true" id="332f5d14-a3b2-42f3-b8a1-9facfe27e6e4" name="Default Changelist" comment="zhuzhu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/CyclicBarrierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/CyclicBarrierExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/test_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/test_1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/test_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/CyclicBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/CyclicBarrierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/test_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +20,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1lK8ZFMG8hG8NNveEcXXs0tJ9s1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +52,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,9 +67,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.test_1">
-    <configuration name="CyclicBarrierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.CyclicBarrierExample" />
+  <component name="RunManager" selected="Application.ShellSort">
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.ShellSort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FastOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.FastOrder" />
+    <configuration name="UnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.UnionFind" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TSynchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.TSynchronized" />
+    <configuration name="WeightedQuickUnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.WeightedQuickUnionFind" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +107,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.ThreadLocalExample" />
+    <configuration name="BFS.Test_Map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -101,12 +115,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.BFS" />
+      <option name="METHOD_NAME" value="Test_Map" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.test_1" />
+    <configuration name="BFS.test_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -114,17 +131,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.BFS" />
+      <option name="METHOD_NAME" value="test_1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test_1" />
-        <item itemvalue="Application.FastOrder" />
-        <item itemvalue="Application.CyclicBarrierExample" />
-        <item itemvalue="Application.ThreadLocalExample" />
-        <item itemvalue="Application.TSynchronized" />
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.WeightedQuickUnionFind" />
+        <item itemvalue="Application.UnionFind" />
+        <item itemvalue="JUnit.BFS.test_1" />
+        <item itemvalue="JUnit.BFS.Test_Map" />
       </list>
     </recent_temporary>
   </component>
@@ -162,10 +183,91 @@
       <workItem from="1614694068451" duration="1227000" />
       <workItem from="1614747959243" duration="4273000" />
       <workItem from="1614825069160" duration="6032000" />
+      <workItem from="1614838265107" duration="1180000" />
+      <workItem from="1614869352515" duration="3900000" />
+      <workItem from="1614925340118" duration="22631000" />
+      <workItem from="1615112486757" duration="3573000" />
+      <workItem from="1615176617560" duration="4423000" />
+      <workItem from="1615200907566" duration="626000" />
+      <workItem from="1615263307699" duration="6281000" />
+      <workItem from="1615348711517" duration="1448000" />
+      <workItem from="1615359070039" duration="1079000" />
+      <workItem from="1615433790917" duration="1629000" />
+      <workItem from="1615459678444" duration="2829000" />
+      <workItem from="1615521721310" duration="821000" />
+      <workItem from="1615528098179" duration="2916000" />
+      <workItem from="1615721021054" duration="5240000" />
+      <workItem from="1615783021581" duration="875000" />
+      <workItem from="1615867881306" duration="514000" />
+      <workItem from="1615872187468" duration="1320000" />
+      <workItem from="1615889483169" duration="360000" />
+      <workItem from="1616385357139" duration="3870000" />
+      <workItem from="1616558418807" duration="5984000" />
+      <workItem from="1616572426541" duration="6076000" />
+      <workItem from="1616639791418" duration="429000" />
+      <workItem from="1616659892413" duration="3774000" />
+      <workItem from="1616730319276" duration="1256000" />
+      <workItem from="1616999225540" duration="1339000" />
+      <workItem from="1617162510256" duration="602000" />
+      <workItem from="1617173521655" duration="595000" />
     </task>
+    <task id="LOCAL-00001" summary="zhuzhu">
+      <created>1614838624687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614838624687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zhuzhu" />
+    <option name="LAST_COMMIT_MESSAGE" value="zhuzhu" />
   </component>
 </project>
