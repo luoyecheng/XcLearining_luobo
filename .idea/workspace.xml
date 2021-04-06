@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="332f5d14-a3b2-42f3-b8a1-9facfe27e6e4" name="Default Changelist" comment="zhuzhu">
+      <change afterPath="$PROJECT_DIR$/src/demo/MyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/CyclicBarrierExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/CyclicBarrierExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/test_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/test_1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/test_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/CyclicBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/CyclicBarrierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/test_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Software\maven\maven_repository" />
-        <option name="mavenHome" value="D:\Software\maven\apache-maven-3.5.2" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Software/maven/apache-maven-3.5.2" />
         <option name="userSettingsFile" value="D:\Software\maven\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -65,11 +63,37 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ShellSort">
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.ShellSort" />
+  <component name="RunManager" selected="JUnit.MyTest.test_1">
+    <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Tu.DepthFirstPaths" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.Tu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Tu.Graph" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.Tu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.MyTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -81,49 +105,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.UnionFind" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeightedQuickUnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.WeightedQuickUnionFind" />
+    <configuration name="HotelPath.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="demo.Tu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BFS.Test_Map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.BFS" />
-      <option name="METHOD_NAME" value="Test_Map" />
+      <option name="PACKAGE_NAME" value="demo.Tu" />
+      <option name="MAIN_CLASS_NAME" value="demo.Tu.HotelPath" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BFS.test_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTest.test_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -132,7 +143,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.BFS" />
+      <option name="MAIN_CLASS_NAME" value="demo.MyTest" />
       <option name="METHOD_NAME" value="test_1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -141,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.WeightedQuickUnionFind" />
-        <item itemvalue="Application.UnionFind" />
-        <item itemvalue="JUnit.BFS.test_1" />
-        <item itemvalue="JUnit.BFS.Test_Map" />
+        <item itemvalue="JUnit.MyTest.test_1" />
+        <item itemvalue="Application.MyTest" />
+        <item itemvalue="JUnit.HotelPath.test" />
+        <item itemvalue="Application.DepthFirstPaths" />
+        <item itemvalue="Application.Graph" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +220,17 @@
       <workItem from="1616730319276" duration="1256000" />
       <workItem from="1616999225540" duration="1339000" />
       <workItem from="1617162510256" duration="602000" />
-      <workItem from="1617173521655" duration="595000" />
+      <workItem from="1617173521655" duration="5908000" />
+      <workItem from="1617199561664" duration="23000" />
+      <workItem from="1617248493543" duration="1531000" />
+      <workItem from="1617274479071" duration="4809000" />
+      <workItem from="1617279944008" duration="8198000" />
+      <workItem from="1617289556269" duration="2438000" />
+      <workItem from="1617349642012" duration="7664000" />
+      <workItem from="1617598634366" duration="8309000" />
+      <workItem from="1617610498709" duration="96000" />
+      <workItem from="1617610622078" duration="8438000" />
+      <workItem from="1617682063252" duration="3535000" />
     </task>
     <task id="LOCAL-00001" summary="zhuzhu">
       <created>1614838624687</created>
@@ -218,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614838624687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zhuzhu">
+      <created>1617175270676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617175270676</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zhuzhu">
+      <created>1617175364961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617175364961</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +289,13 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
