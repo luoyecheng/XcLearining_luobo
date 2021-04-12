@@ -29,5 +29,12 @@ public class Edge {
         return 0;
     }
 
-
+    @Override
+    public String toString() {
+        return "Edge{" +
+                "v=" + v +
+                ", w=" + w +
+                ", weight=" + weight +
+                '}';
+    }
 }

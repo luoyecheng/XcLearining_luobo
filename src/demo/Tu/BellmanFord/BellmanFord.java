@@ -44,5 +44,11 @@ public class BellmanFord {
     }
 
     private void findNegativeCycle(){
+        int V=edgeTo.length;
+        EdgeWeightDigraph spt=new EdgeWeightDigraph(V);
+        for(int v=0;v<V;v++)
+            if(edgeTo[v]!=null)
+                spt.addEdge(edgeTo[v]);
+
     }
 }
