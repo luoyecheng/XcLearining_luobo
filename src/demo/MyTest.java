@@ -211,5 +211,9 @@ public class MyTest {
     }
 
     public static void main(String[] args) {
+        Deque<Integer> stack=new LinkedList<>();
+        stack.offerLast(1);
+        stack.offerLast(1);
+        stack.offerLast(1);
     }
 }

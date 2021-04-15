@@ -19,7 +19,7 @@ public class MyPrim {
         myQueue=new MyIndexMinPriorityQueue();
         for(int v=0;v<G.V();v++)
             distTo[v]=Double.POSITIVE_INFINITY;
-        distTo[0]=0.0;
+        distTo[0]=0.0;   //以0作为起点
         myQueue.insert(0,0.0);
         while(!myQueue.isEmpty())
             visit(G,myQueue.delMin());

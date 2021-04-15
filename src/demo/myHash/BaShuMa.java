@@ -2,9 +2,7 @@ package demo.myHash;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class BaShuMa {
     private int[] fac;
@@ -144,11 +142,30 @@ public class BaShuMa {
     }
 
     @Test
-    public void test(){
-        int[] start=new int[]{0,1,2,3,4,5,6,7,8};
-        int[] end=new int[]{7,5,2,1,4,0,6,8,3};
+    public void test_1(){
+        List<Integer> list_1=new ArrayList<>();
+        List<Integer> list_2=new ArrayList<>();
+        for(int i=0;i<9;i++){
+            list_1.add(i);
+            list_2.add(i);
+        }
+        Collections.shuffle(list_1);
+        Collections.shuffle(list_2);
+        int[] st=new int[list_1.size()];
+        int[] en=new int[list_1.size()];
+        for(int i=0;i<9;i++){
+            st[i]=list_1.get(i);
+            en[i]=list_2.get(i);
+        }
+        System.out.println(Arrays.toString(st));
+        System.out.println(Arrays.toString(en));
+    }
 
-        int step = minStep(start, end);
+    @Test
+    public void test(){
+        int[] st=new int[]{0, 4, 6, 2, 7, 1, 5, 3, 8};
+        int[] en=new int[]{0, 2, 4, 7, 8, 5, 6, 3, 1};
+        int step = minStep(st, en);
         System.out.println(step);
     }
 

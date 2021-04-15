@@ -5,19 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="332f5d14-a3b2-42f3-b8a1-9facfe27e6e4" name="Default Changelist" comment="zhuzhu">
+      <change afterPath="$PROJECT_DIR$/src/demo/myThread/DeadLock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/CyclicBarrierExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Demo01020304.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Demo35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/DemoABC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/H2O.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MutilThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyJVMTest/HeapOOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyJVMTest/HeapOOM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyList/SkipList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyList/SkipList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyList/SkipListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyList/SkipListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/Quick3String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/Quick3String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/RabinKarp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/RabinKarp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TrieST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TrieST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TrieST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyString/TrieST.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/BellmanFord/BellmanFord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/BellmanFord/BellmanFord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/MyPrim/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/MyPrim/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/Tu/MyPrim/Prim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/demo/TSynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/CyclicBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/CyclicBarrierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/DeadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Demo01020304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/Demo01020304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Demo35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/Demo35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/DemoABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/DemoABC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/FastOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/sort/FastOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/GuibinPaiXu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/sort/GuibinPaiXu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/H2O.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/H2O.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MutilThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/MutilThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyJVMTest/HeapOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myJVMTest/HeapOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyList/SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myList/SkipList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyList/SkipListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myList/SkipListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyString/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myString/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyString/Quick3String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myString/Quick3String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyString/RabinKarp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myString/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyString/TST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myString/TST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/MyString/TrieST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myString/TrieST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demo/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Tu/BellmanFord/BellmanFord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Tu/BellmanFord/BellmanFord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Tu/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Tu/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Tu/MyPrim/Edge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Tu/MyPrim/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Tu/MyPrim/Prim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/TSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/TSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/ThreadLocalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myThread/ThreadLocalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Tu/MyPrim/MyPrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Tu/MyPrim/MyPrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/myHash/BaShuMa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/myHash/BaShuMa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +94,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java_lianxi/leetcode算法题" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software/新建文件夹/src/sun" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,15 +104,15 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="JUnit.BaShuMa.test">
-    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.MyTest" />
+  <component name="RunManager" selected="JUnit.MinCabin.test">
+    <configuration name="DesugarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.myJVMTest.DesugarTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="demo.myJVMTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,76 +120,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.myJVMTest.DynamicProxyTest" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.myJVMTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaShuMa.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodInvokeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.myJVMTest.MethodInvokeTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.myHash.*" />
+          <option name="PATTERN" value="demo.myJVMTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="demo.myHash" />
-      <option name="MAIN_CLASS_NAME" value="demo.myHash.BaShuMa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpGame.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.Tu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.Tu" />
+      <option name="MAIN_CLASS_NAME" value="demo.Tu.JumpGame" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHash.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinCabin.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.myHash.*" />
+          <option name="PATTERN" value="demo.Tu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="demo.myHash" />
-      <option name="MAIN_CLASS_NAME" value="demo.myHash.MyHash" />
+      <option name="PACKAGE_NAME" value="demo.Tu" />
+      <option name="MAIN_CLASS_NAME" value="demo.Tu.MinCabin" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.MyTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest.test_min" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.MyTest" />
-      <option name="METHOD_NAME" value="test_min" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BaShuMa.test" />
-        <item itemvalue="JUnit.MyHash.test" />
-        <item itemvalue="Application.MyTest" />
-        <item itemvalue="JUnit.MyTest.test_min" />
-        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="JUnit.MinCabin.test" />
+        <item itemvalue="JUnit.JumpGame.test" />
+        <item itemvalue="Application.DesugarTest" />
+        <item itemvalue="Application.DynamicProxyTest" />
+        <item itemvalue="Application.MethodInvokeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +268,13 @@
       <workItem from="1617979629337" duration="626000" />
       <workItem from="1618034287877" duration="9273000" />
       <workItem from="1618046086680" duration="6529000" />
-      <workItem from="1618204956997" duration="6830000" />
+      <workItem from="1618204956997" duration="11492000" />
+      <workItem from="1618224723896" duration="3627000" />
+      <workItem from="1618231557729" duration="1809000" />
+      <workItem from="1618285946801" duration="765000" />
+      <workItem from="1618289679702" duration="15530000" />
+      <workItem from="1618371664218" duration="17486000" />
+      <workItem from="1618462008832" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="zhuzhu">
       <created>1614838624687</created>
@@ -283,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617686236863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="zhuzhu">
+      <created>1618212802177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618212802177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,16 +368,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zhuzhu" />
     <option name="LAST_COMMIT_MESSAGE" value="zhuzhu" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/demo/MyTest.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
